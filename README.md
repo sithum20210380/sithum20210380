@@ -1,6 +1,6 @@
 [![MasterHead](https://im2.ezgif.com/tmp/ezgif-2-63782a9e8a.gif)](https://sithum20210380.io)
 <h1 align="center">Hi 👋, I'm Sithum Raveesha</h1>
-<h3 align="Center">Tech enthusiast</h3>
+<h3 align="Center">Tech Enthusiast</h3>
 <h3><img align="center" width="40" src="https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif">&nbsp;&nbsp;About Me</h3?
 <!img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
