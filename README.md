@@ -10,7 +10,6 @@
 
 - ⚡ Fun fact **Just a simple guy**
 
-<!-- GRS (Light Mode) -->
 
 <!-- GRS (Dark Mode) -->
 
