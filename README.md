@@ -11,7 +11,6 @@
 - ⚡ Fun fact **Just a simple guy**
 
 
-<!-- GRS (Dark Mode) -->
 
 <!-- Streal stats (Light mode) -->
 <div align="center">
