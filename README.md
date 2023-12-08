@@ -11,7 +11,6 @@
 - ⚡ Fun fact **Just a simple guy**
 
 
-
 <!-- Streal stats (Light mode) -->
 <div align="center">
   <a href="https://github.com/sithum20210380#gh-light-mode-only">
