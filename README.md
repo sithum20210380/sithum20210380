@@ -20,7 +20,6 @@
   </a>
 </div>
 
-
 <!-- Streal stats (Dark mode) -->
 <div align="center">
   <a href="https://github.com/sithum20210380#gh-dark-mode-only">
