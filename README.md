@@ -10,17 +10,18 @@
 
 - ⚡ Fun fact **Just a simple guy**
 
-<!-- Streal stats (Light mode) -->
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/sithum20210380#gh-light-mode-only">
     <img
        src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=sithum20210380&locale=en&type=svg&hide_border=true&fire=2d77dc&ring=2d77dc&currStreakLabel=000000"
        alt="My GitHub streak stats"
      />
   </a>
-</div>
+</div> -->
+
 
 <!-- Streal stats (Dark mode) -->
+<!-- 
 <div align="center">
   <a href="https://github.com/sithum20210380#gh-dark-mode-only">
     <img
@@ -29,3 +30,5 @@
      />
   </a>
 </div>
+-->
+
