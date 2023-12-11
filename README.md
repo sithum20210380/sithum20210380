@@ -6,9 +6,9 @@
 
 - 💬 Ask me about **Android , MERN , IOS**
 
-- 📫 How to reach me **sithum18raveesha@gmail.com**
+- 📫 How to reach me :  **sithum18raveesha@gmail.com**
 
-- ⚡ Fun fact **Just a simple guy**
+- ⚡ Fun fact : **Just a simple guy**
 
 <!-- <div align="center">
   <a href="https://github.com/sithum20210380#gh-light-mode-only">
