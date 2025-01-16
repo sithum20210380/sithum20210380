@@ -1,4 +1,5 @@
 ### Hey 👋, I'm Sithum
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast)](https://git.io/typing-svg)
 
 [![Github](https://img.shields.io/github/followers/sithum20210380?label=Follow&style=social)](https://github.com/sithum20210380)
 
@@ -30,3 +31,5 @@
   </a>
 </div>
 -->
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sithum20210380&theme=react-dark)](https://github.com/sithum20210380/github-readme-activity-graph)
