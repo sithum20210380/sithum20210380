@@ -53,37 +53,45 @@
 <!--Github stats Table--> 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
-![sithum20210380 github-stats](https://stats.dooboo.io/api/github-stats?login=sithum20210380)
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center" style="color: red;"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/sithum20210380">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=sithum20210380&count_private=true&show_icons=true&theme=dark&bg_color=0,000000,660000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center" style="color: red;"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/sithum20210380">
+          <img
+             src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=sithum20210380&locale=en&type=svg&hide_border=true&background=0,000000,660000&fire=ffffff&ring=ffffff&sideNums=ff0000&sideLabels=ffffff&dates=ffffff&currStreakNum=ff0000" alt="My GitHub streak stats"
+         />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center" style="color: red;"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <p align="center">
+        <a href="https://github.com/sithum20210380/RL-Based-Dynamic-Price-Optimisation">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=sithum20210380&repo=RL-Based-Dynamic-Price-Optimisation&theme=dark&show_owner=true&bg_color=0,000000,660000&title_color=ff0000&text_color=ffffff&icon_color=ff0000" alt="Latest Project" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center" style="color: red;"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/sithum20210380">
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=sithum20210380&limit=2&theme=dark&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,660000&title_color=ff0000&text_color=ffffff&icon_color=ffffff" alt="Top Contributions" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-<!-- <div align="center">
-  <a href="https://github.com/sithum20210380#gh-light-mode-only">
-    <img
-       src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=sithum20210380&locale=en&type=svg&hide_border=true&fire=2d77dc&ring=2d77dc&currStreakLabel=000000"
-       alt="My GitHub streak stats"
-     />
-  </a>
-</div> -->
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://streak-stats.demolab.com/?user=sithum20210380&theme=youtube-dark" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sithum20210380&layout=compact&langs_count=8&card_width=440" />
-      </td>
-    </tr>
-  </table>
-</div>
-<!-- Streal stats (Dark mode) -->
-<!-- 
-<div align="center">
-  <a href="https://github.com/sithum20210380#gh-dark-mode-only">
-    <img
-       src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=sithum20210380&background=0d1117&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&fire=2d77dc&ring=2d77dc&locale=en&type=svg&hide_border=true"
-       alt="My GitHub streak stats"
-     />
-  </a>
-</div>
--->
+<br />
