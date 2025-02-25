@@ -8,7 +8,7 @@
 
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> HEY I'M SITHUM! 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast)](https://git.io/typing-svg) 
+
 <!--Start Intro-->               
 <p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, SwiftUI, REST API and Data Visualization. </p>
 
