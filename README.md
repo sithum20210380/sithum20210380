@@ -10,7 +10,6 @@
 - 📫 How to reach me :  **sithum18raveesha@gmail.com**
 
 - ⚡ Fun fact : **Just a simple guy**
-
 <!-- <div align="center">
   <a href="https://github.com/sithum20210380#gh-light-mode-only">
     <img
@@ -19,7 +18,8 @@
      />
   </a>
 </div> -->
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sithum20210380&show_icons=true&text_color=f40404&bg_color=000000&icon_color=ffffff&title_color=ffffff&rank_icon=github)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sithum20210380&theme=youtube-dark)](https://git.io/streak-stats)
 <!-- Streal stats (Dark mode) -->
 <!-- 
 <div align="center">
