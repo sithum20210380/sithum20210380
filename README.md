@@ -57,45 +57,45 @@
 <!--Github stats Table--> 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <h3 align="center" style="color: red;"><strong><a href="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGw4NjV5OWxsenU0ZGh3YXoyYTJyOXgyYnVrYzV0NjVtZjJibXJmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/37Uer6MbSlFgA/giphy.gif"><img align="center" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGw4NjV5OWxsenU0ZGh3YXoyYTJyOXgyYnVrYzV0NjVtZjJibXJmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/37Uer6MbSlFgA/giphy.gif" width="38" alt="SkeletonInAChair-gif"/></a>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/sithum20210380">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=sithum20210380&count_private=true&show_icons=true&theme=dark&bg_color=0,000000,660000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center" style="color: red;"><strong><a href="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGw4NjV5OWxsenU0ZGh3YXoyYTJyOXgyYnVrYzV0NjVtZjJibXJmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/37Uer6MbSlFgA/giphy.gif"><img align="center" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGw4NjV5OWxsenU0ZGh3YXoyYTJyOXgyYnVrYzV0NjVtZjJibXJmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/37Uer6MbSlFgA/giphy.gif" width="38" alt="SkeletonInAChair-gif"/></a>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/sithum20210380">
-          <img
-             src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=sithum20210380&locale=en&type=svg&hide_border=true&background=0,000000,660000&fire=ffffff&ring=ffffff&sideNums=ff0000&sideLabels=ffffff&dates=ffffff&currStreakNum=ff0000" alt="My GitHub streak stats"
-         />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center" style="color: red;"><strong><a href="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGw4NjV5OWxsenU0ZGh3YXoyYTJyOXgyYnVrYzV0NjVtZjJibXJmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/37Uer6MbSlFgA/giphy.gif"><img align="center" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGw4NjV5OWxsenU0ZGh3YXoyYTJyOXgyYnVrYzV0NjVtZjJibXJmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/37Uer6MbSlFgA/giphy.gif" width="38" alt="SkeletonInAChair-gif"/></a>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
-      <p align="center">
-        <a href="https://github.com/sithum20210380/RL-Based-Dynamic-Price-Optimisation">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=sithum20210380&repo=RL-Based-Dynamic-Price-Optimisation&theme=dark&show_owner=true&bg_color=0,000000,660000&title_color=ff0000&text_color=ffffff&icon_color=ff0000" alt="Latest Project" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center" style="color: red;"><strong><a href="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGw4NjV5OWxsenU0ZGh3YXoyYTJyOXgyYnVrYzV0NjVtZjJibXJmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/37Uer6MbSlFgA/giphy.gif"><img align="center" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGw4NjV5OWxsenU0ZGh3YXoyYTJyOXgyYnVrYzV0NjVtZjJibXJmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/37Uer6MbSlFgA/giphy.gif" width="38" alt="SkeletonInAChair-gif"/></a>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/sithum20210380">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=sithum20210380&limit=2&theme=dark&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,660000&title_color=ff0000&text_color=ffffff&icon_color=ffffff" alt="Top Contributions" />
-        </a>
-      </p>
-    </td>
-  </tr>
+<div style="background: linear-gradient(to bottom right, #000000, #1a1100, #332200, #4d3300, #664400);">
+<table width="100%" style="background: linear-gradient(135deg, #000000 0%, #1a1100 25%, #332200 50%, #4d3300 75%, #664400 100%);"> 
+<tr> 
+<td width="50%"> 
+<h3 align="center" style="color: #f2d675;"><strong><a href="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGw4NjV5OWxsenU0ZGh3YXoyYTJyOXgyYnVrYzV0NjVtZjJibXJmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/37Uer6MbSlFgA/giphy.gif"><img align="center" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGw4NjV5OWxsenU0ZGh3YXoyYTJyOXgyYnVrYzV0NjVtZjJibXJmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/37Uer6MbSlFgA/giphy.gif" width="38" alt="SkeletonInAChair-gif"/></a>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3> 
+<p align="center"> 
+<a href="https://github.com/sithum20210380"> 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sithum20210380&count_private=true&show_icons=true&theme=dark&bg_color=0,000000,332200,664400&title_color=f2d675&text_color=f2d675&icon_color=f2d675&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" /> 
+</a> 
+</p> 
+</td> 
+<td width="50%"> 
+<h3 align="center" style="color: #f2d675;"><strong><a href="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGw4NjV5OWxsenU0ZGh3YXoyYTJyOXgyYnVrYzV0NjVtZjJibXJmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/37Uer6MbSlFgA/giphy.gif"><img align="center" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGw4NjV5OWxsenU0ZGh3YXoyYTJyOXgyYnVrYzV0NjVtZjJibXJmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/37Uer6MbSlFgA/giphy.gif" width="38" alt="SkeletonInAChair-gif"/></a>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3> 
+<p align="center"> 
+<a href="https://github.com/sithum20210380"> 
+<img src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=sithum20210380&locale=en&type=svg&hide_border=true&background=0,000000,332200,664400&fire=f2d675&ring=f2d675&sideNums=f2d675&sideLabels=f2d675&dates=f2d675&currStreakNum=f2d675" alt="My GitHub streak stats" /> 
+</a> 
+</p> 
+</td> 
+</tr> 
+<tr> 
+<td width="50%"> 
+<h3 align="center" style="color: #f2d675;"><strong><a href="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGw4NjV5OWxsenU0ZGh3YXoyYTJyOXgyYnVrYzV0NjVtZjJibXJmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/37Uer6MbSlFgA/giphy.gif"><img align="center" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGw4NjV5OWxsenU0ZGh3YXoyYTJyOXgyYnVrYzV0NjVtZjJibXJmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/37Uer6MbSlFgA/giphy.gif" width="38" alt="SkeletonInAChair-gif"/></a>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3> 
+<p align="center"> 
+<a href="https://github.com/sithum20210380/RL-Based-Dynamic-Price-Optimisation"> 
+<img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=sithum20210380&repo=RL-Based-Dynamic-Price-Optimisation&theme=dark&show_owner=true&bg_color=0,000000,332200,664400&title_color=f2d675&text_color=f2d675&icon_color=f2d675" alt="Latest Project" /> 
+</a> 
+</p> 
+</td> 
+<td width="50%"> 
+<h3 align="center" style="color: #f2d675;"><strong><a href="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGw4NjV5OWxsenU0ZGh3YXoyYTJyOXgyYnVrYzV0NjVtZjJibXJmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/37Uer6MbSlFgA/giphy.gif"><img align="center" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGw4NjV5OWxsenU0ZGh3YXoyYTJyOXgyYnVrYzV0NjVtZjJibXJmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/37Uer6MbSlFgA/giphy.gif" width="38" alt="SkeletonInAChair-gif"/></a>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3> 
+<p align="center"> 
+<a href="https://github.com/sithum20210380"> 
+<img align="center" src="https://github-contributor-stats.vercel.app/api?username=sithum20210380&limit=2&theme=dark&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,332200,664400&title_color=f2d675&text_color=f2d675&icon_color=f2d675" alt="Top Contributions" /> 
+</a> 
+</p> 
+</td> 
+</tr> 
 </table>
+</div>
 
 <br />
