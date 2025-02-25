@@ -10,6 +10,9 @@
 - 📫 How to reach me :  **sithum18raveesha@gmail.com**
 
 - ⚡ Fun fact : **Just a simple guy**
+
+![sithum20210380 github-stats](https://stats.dooboo.io/api/github-stats?login=sithum20210380)
+
 <!-- <div align="center">
   <a href="https://github.com/sithum20210380#gh-light-mode-only">
     <img
@@ -23,16 +26,14 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=sithum20210380&show_icons=true&text_color=f40404&bg_color=000000&icon_color=ffffff&title_color=ffffff&rank_icon=github" />
+        <img src="https://streak-stats.demolab.com/?user=sithum20210380&theme=youtube-dark" />
       </td>
       <td>
-        <img src="https://streak-stats.demolab.com/?user=sithum20210380&theme=youtube-dark" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sithum20210380&layout=compact&langs_count=8&card_width=440" />
       </td>
     </tr>
   </table>
 </div>
-
-
 <!-- Streal stats (Dark mode) -->
 <!-- 
 <div align="center">
