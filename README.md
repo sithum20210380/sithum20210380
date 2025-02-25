@@ -18,8 +18,12 @@
      />
   </a>
 </div> -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sithum20210380&show_icons=true&text_color=f40404&bg_color=000000&icon_color=ffffff&title_color=ffffff&rank_icon=github)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sithum20210380&theme=youtube-dark)](https://git.io/streak-stats)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sithum20210380&show_icons=true&text_color=f40404&bg_color=000000&icon_color=ffffff&title_color=ffffff&rank_icon=github" />
+  <img src="https://streak-stats.demolab.com/?user=sithum20210380&theme=youtube-dark" />
+</p>
+
 <!-- Streal stats (Dark mode) -->
 <!-- 
 <div align="center">
