@@ -19,10 +19,19 @@
   </a>
 </div> -->
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sithum20210380&show_icons=true&text_color=f40404&bg_color=000000&icon_color=ffffff&title_color=ffffff&rank_icon=github" />
-  <img src="https://streak-stats.demolab.com/?user=sithum20210380&theme=youtube-dark" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=sithum20210380&show_icons=true&text_color=f40404&bg_color=000000&icon_color=ffffff&title_color=ffffff&rank_icon=github" />
+      </td>
+      <td>
+        <img src="https://streak-stats.demolab.com/?user=sithum20210380&theme=youtube-dark" />
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 <!-- Streal stats (Dark mode) -->
 <!-- 
