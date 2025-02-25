@@ -9,7 +9,6 @@
 <!--Start Intro-->               
 <p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, SwiftUI, REST API and Data Visualization. </p>
 
-- ✨ Student of life :)
 - 🌱 I’m currently learning BSc.Computer Science at University of Westminster.
 - 💬 Ask me about Android , MERN , IOS.
 - ✍ I write technical blogs, You can visit my blog site at [DEV](https://medium.com/@sithum18raveesha).
