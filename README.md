@@ -1,15 +1,54 @@
-### Hey 👋, I'm Sithum
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast)](https://git.io/typing-svg)
+<!--Night Owl image-->
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
 
-[![Github](https://img.shields.io/github/followers/sithum20210380?label=Follow&style=social)](https://github.com/sithum20210380)
+<!--Header Name-->
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'M SITHUM! 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast)](https://git.io/typing-svg) 
+<!--Start Intro-->               
+<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, SwiftUI, REST API and Data Visualization. </p>
 
-- 🌱 I’m currently learning **BSc.Computer Science at University of Westminster**
+- ✨ Student of life :)
+- 🌱 I’m currently learning BSc.Computer Science at University of Westminster.
+- 💬 Ask me about Android , MERN , IOS.
+- ✍ I write technical blogs, You can visit my blog site at [DEV](https://medium.com/@sithum18raveesha).
+- ❤ Contributing to Open Source.
+- 💻 Visit my [Portfolio](https://sithum-raveesha.vercel.app/) for more details about me.
+- 📫 How to reach me : sithum18raveesha@gmail.com.
+<!--End Intro-->
 
-- 💬 Ask me about **Android , MERN , IOS**
+<!--Profile Count Badge-->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Kiran1689&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
+</p>
 
-- 📫 How to reach me :  **sithum18raveesha@gmail.com**
+---
+<!--Languages and Tools Section-->       
+<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+</picture>
+<br />
 
-- ⚡ Fun fact : **Just a simple guy**
+<h3 align="left">Current Learning</h3>
+<ul align="left">
+  <li>Deepening my knowledge in Machine Learning and AI.</li>
+  <li>Exploring advanced React.js patterns and state management techniques.</li>
+  <li>Improving my skills in cloud computing with AWS and Azure.</li>
+</ul>
+  
+<h3 align="left">Latest Blog Posts</h3>
+<ul align="left">
+  <li><a href="https://medium.com/@sithum18raveesha/dynamic-price-optimization-using-reinforcement-learning-4a74776431a3">💰 Dynamic Price Optimization Using Reinforcement Learning</a></li>
+  <li><a href="https://medium.com/@sithum18raveesha/architecting-serverless-applications-with-aws-5b0b4db3baf7">🏗 Architecting Serverless Applications with AWS</a></li>
+</ul>
+<br />
+
+<!--Github stats Table--> 
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
 ![sithum20210380 github-stats](https://stats.dooboo.io/api/github-stats?login=sithum20210380)
 
