@@ -1,5 +1,5 @@
 <!--Banner-->
-![sithum20210380 Banner Image](./headerImage.png)
+![sithum20210380 Banner Image](./headerImage.webp)
 
 <!--Night Owl image-->
 <div>
