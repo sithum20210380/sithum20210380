@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning BSc.Computer Science at University of Westminster.
 - 💬 Ask me about Android , MERN , IOS.
-- ✍ I write technical blogs, You can visit my blog site at [DEV](https://medium.com/@sithum18raveesha).
+- ✍ I write technical blogs, You can visit my blog site at [medium.com](https://medium.com/@sithum18raveesha).
 - ❤ Contributing to Open Source.
 - 💻 Visit my [Portfolio](https://sithum-raveesha.vercel.app/) for more details about me.
 - 📫 How to reach me : sithum18raveesha@gmail.com.
